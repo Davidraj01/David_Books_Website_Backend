@@ -5,7 +5,7 @@ const config = {
   port: process.env.PORT || 5000,
   mongoUri: process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/author-site',
   jwtSecret: process.env.JWT_SECRET,
-  siteUrl: (process.env.SITE_URL || `http://localhost:${process.env.PORT || 5000}`).replace(/\/+$/, ''),
+  siteUrl: (process.env.SITE_URL || (process.env.RENDER ? 'https://david-books-website-frontend.vercel.app' : `http://localhost:${process.env.PORT || 5000}`)).replace(/\/+$/, ''),
   uploadDir: path.join(__dirname, '..', 'uploads'),
   clientDist: path.join(__dirname, '..', '..', 'client', 'dist'),
 };
