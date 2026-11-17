@@ -67,6 +67,7 @@ const { uniqueSlug } = require('./util');
     await Book.create({
       title: b.title,
       subtitle: b.subtitle,
+      description: b.description || '',
       language: b.language,
       amazonUrl: b.amazonUrl,
       cover: `/uploads/${dest}`,

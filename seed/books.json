@@ -1,210 +1,235 @@
 [
- {
-  "title": "The Mind That Builds Your Future",
-  "subtitle": "A practical guide for young people to understand their thoughts, build strong habits and create a life of purpose.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HHX2KD6K",
-  "cover": "cover-01.jpg",
-  "order": 1
- },
- {
-  "title": "The Price of Always Being Right",
-  "subtitle": "When winning arguments means losing what matters.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HQ5ZJZXR",
-  "cover": "cover-02.jpg",
-  "order": 2
- },
- {
-  "title": "You Are Not Too Late",
-  "subtitle": "A wake-up call for the young mind.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HJZ5C77J",
-  "cover": "cover-03.jpg",
-  "order": 3
- },
- {
-  "title": "The Youth of the World",
-  "subtitle": "Rise to protect our planet.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HDYLDLQM",
-  "cover": "cover-04.jpg",
-  "order": 4
- },
- {
-  "title": "The War Inside Your Mind",
-  "subtitle": "A practical guide to a calmer mind, stronger choices and a brighter you.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HJM11Z4R",
-  "cover": "cover-05.jpg",
-  "order": 5
- },
- {
-  "title": "The Next Human",
-  "subtitle": "Life in the age of artificial intelligence.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HGPYZFMB",
-  "cover": "cover-06.jpg",
-  "order": 6
- },
- {
-  "title": "Become Before You Achieve",
-  "subtitle": "The young person’s guide to building a life that matters.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HGMB38L7",
-  "cover": "cover-07.jpg",
-  "order": 7
- },
- {
-  "title": "The Job You Don’t Know Exists",
-  "subtitle": "",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HGM89G9V",
-  "cover": "cover-08.jpg",
-  "order": 8
- },
- {
-  "title": "The World Is Changing — Are You Ready?",
-  "subtitle": "How young people can build skills, find opportunities and win in the age of AI.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0H1YFQ95H",
-  "cover": "cover-09.jpg",
-  "order": 9
- },
- {
-  "title": "Why Do People Want to Forget Themselves?",
-  "subtitle": "Understanding the human need to escape and the journey back to happiness.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HF8HGYW7",
-  "cover": "cover-10.jpg",
-  "order": 10
- },
- {
-  "title": "One More Step",
-  "subtitle": "The psychology of moving forward when you feel stuck.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HKWLX361",
-  "cover": "cover-11.jpg",
-  "order": 11
- },
- {
-  "title": "How to Be Successful in Life",
-  "subtitle": "",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0C9PWW64V",
-  "cover": "cover-12.jpg",
-  "order": 12
- },
- {
-  "title": "This Day Will Never Come Again",
-  "subtitle": "Learning to live before today becomes yesterday.",
-  "language": "en",
-  "amazonUrl": "https://www.amazon.in/dp/B0HLS1MCWL",
-  "cover": "cover-13.jpg",
-  "order": 13
- },
- {
-  "title": "யார் பெரியவர்?",
-  "subtitle": "வாதத்தில் வெற்றி, உறவில் தோல்வி!",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HNN4HMBF",
-  "cover": "cover-14.jpg",
-  "order": 14
- },
- {
-  "title": "ஒருமுறை ஒப்புக்கொடுக்கப்பட்ட விசுவாசம்",
-  "subtitle": "விசுவாசத்தைக் காப்போம் • வாழ்வோம் • பகிர்வோம் • போராடுவோம் • ஒப்படைப்போம்",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HNMWHB12",
-  "cover": "cover-15.jpg",
-  "order": 15
- },
- {
-  "title": "வெற்றியாளனாக நிலைத்திரு",
-  "subtitle": "வெற்றியைப் பெறுவது மட்டும் போதாது, அதனைத் தக்க வைத்துக்கொள்ளவும் கற்றுக் கொள்ள வேண்டும்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HMPN8PM8",
-  "cover": "cover-16.jpg",
-  "order": 16
- },
- {
-  "title": "வானம் தொலைவில் இல்லை",
-  "subtitle": "நீ நடக்கத் தொடங்கும் தருணமே உன் மாற்றத்தின் தொடக்கம்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HMQQW29B",
-  "cover": "cover-17.jpg",
-  "order": 17
- },
- {
-  "title": "அதிகம் உழைத்தவன் — தன்னை உயர்த்தாதவன்",
-  "subtitle": "சவுலிலிருந்து பவுல் வரை — பணிவின் ஆவிக்குரிய பயணம்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HLYNSYCR",
-  "cover": "cover-18.jpg",
-  "order": 18
- },
- {
-  "title": "யோசேப்பு",
-  "subtitle": "உடைக்கப்பட்டாலும் உடையாத மனிதன்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HLZ4FFZC",
-  "cover": "cover-19.jpg",
-  "order": 19
- },
- {
-  "title": "ஐந்து ஊழிய அழைப்புகள்",
-  "subtitle": "பதவி அல்ல — அழைப்பு; அதிகாரம் அல்ல — பொறுப்பு.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HLPDPZQJ",
-  "cover": "cover-20.jpg",
-  "order": 20
- },
- {
-  "title": "அதிகாலை நடைப்பயிற்சியில் தேவனின் மெல்லிய சப்தம்",
-  "subtitle": "",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HJYTGDPL",
-  "cover": "cover-21.jpg",
-  "order": 21
- },
- {
-  "title": "இயற்கை சீறும்போது…",
-  "subtitle": "ஒரு வனக் காவலனின் கண்களில் மனிதன் மறந்துபோன உண்மைகள்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0GX36TRTM",
-  "cover": "cover-22.jpg",
-  "order": 22
- },
- {
-  "title": "தாவீது — ஆடுகளின் மேய்ப்பனிலிருந்து ராஜாவாக",
-  "subtitle": "ஒரு ஆவிக்குரிய பயணம் — வேதாகமமும் ரபீனிய மரபுகளும்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HJCVC4X7",
-  "cover": "cover-23.jpg",
-  "order": 23
- },
- {
-  "title": "அந்தமான்",
-  "subtitle": "ஜாரவா மக்களும் இயற்கையின் பேரரசும்.",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HFHWDWF1",
-  "cover": "cover-24.jpg",
-  "order": 24
- },
- {
-  "title": "தேவனுடைய வீட்டில் சந்தை நுழைந்த நாள்",
-  "subtitle": "மனந்திரும்புங்கள், ஊழியக்காரர்களே!",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0HHM7HVRC",
-  "cover": "cover-25.jpg",
-  "order": 25
- },
- {
-  "title": "AI வரமா? சாபமா?",
-  "subtitle": "மனிதன் AI-ஐ ஆளுவானா?",
-  "language": "ta",
-  "amazonUrl": "https://www.amazon.in/dp/B0H4C2ZZVT",
-  "cover": "cover-26.jpg",
-  "order": 26
- }
+  {
+    "title": "The Mind That Builds Your Future",
+    "subtitle": "A practical guide for young people to understand their thoughts, build strong habits and create a life of purpose.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HHX2KD6K",
+    "cover": "cover-01.jpg",
+    "order": 1
+  },
+  {
+    "title": "The Price of Always Being Right",
+    "subtitle": "When winning arguments means losing what matters.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HQ5ZJZXR",
+    "cover": "cover-02.jpg",
+    "order": 2
+  },
+  {
+    "title": "You Are Not Too Late",
+    "subtitle": "A wake-up call for the young mind.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HJZ5C77J",
+    "cover": "cover-03.jpg",
+    "order": 3
+  },
+  {
+    "title": "The Youth of the World",
+    "subtitle": "Rise to protect our planet.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HDYLDLQM",
+    "cover": "cover-04.jpg",
+    "order": 4
+  },
+  {
+    "title": "The War Inside Your Mind",
+    "subtitle": "A practical guide to a calmer mind, stronger choices and a brighter you.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HJM11Z4R",
+    "cover": "cover-05.jpg",
+    "order": 5
+  },
+  {
+    "title": "The Next Human",
+    "subtitle": "Life in the age of artificial intelligence.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HGPYZFMB",
+    "cover": "cover-06.jpg",
+    "order": 6
+  },
+  {
+    "title": "Become Before You Achieve",
+    "subtitle": "The young person’s guide to building a life that matters.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HGMB38L7",
+    "cover": "cover-07.jpg",
+    "order": 7
+  },
+  {
+    "title": "The Job You Don’t Know Exists",
+    "subtitle": "",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HGM89G9V",
+    "cover": "cover-08.jpg",
+    "order": 8
+  },
+  {
+    "title": "The World Is Changing — Are You Ready?",
+    "subtitle": "How young people can build skills, find opportunities and win in the age of AI.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0H1YFQ95H",
+    "cover": "cover-09.jpg",
+    "order": 9
+  },
+  {
+    "title": "Why Do People Want to Forget Themselves?",
+    "subtitle": "Understanding the human need to escape and the journey back to happiness.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HF8HGYW7",
+    "cover": "cover-10.jpg",
+    "order": 10
+  },
+  {
+    "title": "One More Step",
+    "subtitle": "The psychology of moving forward when you feel stuck.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HKWLX361",
+    "cover": "cover-11.jpg",
+    "order": 11
+  },
+  {
+    "title": "How to Be Successful in Life",
+    "subtitle": "",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0C9PWW64V",
+    "cover": "cover-12.jpg",
+    "order": 12
+  },
+  {
+    "title": "This Day Will Never Come Again",
+    "subtitle": "Learning to live before today becomes yesterday.",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.in/dp/B0HLS1MCWL",
+    "cover": "cover-13.jpg",
+    "order": 13
+  },
+  {
+    "title": "யார் பெரியவர்?",
+    "subtitle": "வாதத்தில் வெற்றி, உறவில் தோல்வி!",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HNN4HMBF",
+    "cover": "cover-14.jpg",
+    "order": 14
+  },
+  {
+    "title": "ஒருமுறை ஒப்புக்கொடுக்கப்பட்ட விசுவாசம்",
+    "subtitle": "விசுவாசத்தைக் காப்போம் • வாழ்வோம் • பகிர்வோம் • போராடுவோம் • ஒப்படைப்போம்",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HNMWHB12",
+    "cover": "cover-15.jpg",
+    "order": 15
+  },
+  {
+    "title": "வெற்றியாளனாக நிலைத்திரு",
+    "subtitle": "வெற்றியைப் பெறுவது மட்டும் போதாது, அதனைத் தக்க வைத்துக்கொள்ளவும் கற்றுக் கொள்ள வேண்டும்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HMPN8PM8",
+    "cover": "cover-16.jpg",
+    "order": 16
+  },
+  {
+    "title": "வானம் தொலைவில் இல்லை",
+    "subtitle": "நீ நடக்கத் தொடங்கும் தருணமே உன் மாற்றத்தின் தொடக்கம்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HMQQW29B",
+    "cover": "cover-17.jpg",
+    "order": 17
+  },
+  {
+    "title": "அதிகம் உழைத்தவன் — தன்னை உயர்த்தாதவன்",
+    "subtitle": "சவுலிலிருந்து பவுல் வரை — பணிவின் ஆவிக்குரிய பயணம்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HLYNSYCR",
+    "cover": "cover-18.jpg",
+    "order": 18
+  },
+  {
+    "title": "யோசேப்பு",
+    "subtitle": "உடைக்கப்பட்டாலும் உடையாத மனிதன்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HLZ4FFZC",
+    "cover": "cover-19.jpg",
+    "order": 19
+  },
+  {
+    "title": "ஐந்து ஊழிய அழைப்புகள்",
+    "subtitle": "பதவி அல்ல — அழைப்பு; அதிகாரம் அல்ல — பொறுப்பு.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HLPDPZQJ",
+    "cover": "cover-20.jpg",
+    "order": 20
+  },
+  {
+    "title": "அதிகாலை நடைப்பயிற்சியில் தேவனின் மெல்லிய சப்தம்",
+    "subtitle": "",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HJYTGDPL",
+    "cover": "cover-21.jpg",
+    "order": 21
+  },
+  {
+    "title": "இயற்கை சீறும்போது…",
+    "subtitle": "ஒரு வனக் காவலனின் கண்களில் மனிதன் மறந்துபோன உண்மைகள்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0GX36TRTM",
+    "cover": "cover-22.jpg",
+    "order": 22
+  },
+  {
+    "title": "தாவீது — ஆடுகளின் மேய்ப்பனிலிருந்து ராஜாவாக",
+    "subtitle": "ஒரு ஆவிக்குரிய பயணம் — வேதாகமமும் ரபீனிய மரபுகளும்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HJCVC4X7",
+    "cover": "cover-23.jpg",
+    "order": 23
+  },
+  {
+    "title": "அந்தமான்",
+    "subtitle": "ஜாரவா மக்களும் இயற்கையின் பேரரசும்.",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HFHWDWF1",
+    "cover": "cover-24.jpg",
+    "order": 24
+  },
+  {
+    "title": "தேவனுடைய வீட்டில் சந்தை நுழைந்த நாள்",
+    "subtitle": "மனந்திரும்புங்கள், ஊழியக்காரர்களே!",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0HHM7HVRC",
+    "cover": "cover-25.jpg",
+    "order": 25
+  },
+  {
+    "title": "AI வரமா? சாபமா?",
+    "subtitle": "மனிதன் AI-ஐ ஆளுவானா?",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.in/dp/B0H4C2ZZVT",
+    "cover": "cover-26.jpg",
+    "order": 26
+  },
+  {
+    "title": "தேவனுடைய பரிசுத்த சமூகத்தில் பயபக்தி",
+    "subtitle": "காலணிகளைக் கழற்றுதல், பரிசுத்தம் மற்றும் உண்மையான ஆராதனை",
+    "language": "ta",
+    "amazonUrl": "https://www.amazon.com/author/dr.s.davidrajbooks",
+    "cover": "cover-27.jpg",
+    "order": 27
+  },
+  {
+    "title": "The Multimillionaire Blueprint",
+    "subtitle": "From Ordinary Thinking to Extraordinary Wealth",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.com/author/dr.s.davidrajbooks",
+    "cover": "cover-28.jpg",
+    "order": 28,
+    "description": "Wealth is built, not wished for.\n\nWorking hard and becoming wealthy are not the same thing. Millions of people rise early, work with dedication and still struggle to build lasting security. The difference is rarely the hours they work. It is how they understand value, ownership, opportunity, risk and time.\n\nThe Multimillionaire Blueprint is a complete, practical system for building, scaling and preserving wealth with intelligence and integrity. In six parts and thirty chapters, Dr. S. Davidraj takes you from the psychology of a wealthy mind to the power of compounding, and from an ordinary idea to a business, a portfolio and a legacy that lasts.\n\nInside this book:\n• Why income is not wealth and what truly builds net worth\n• The five foundations of extraordinary wealth\n• How to turn an ordinary idea into a valuable business\n• Leverage, AI and global markets as engines of growth\n• A ten-year plan to build, protect and pass on your wealth"
+  },
+  {
+    "title": "The Fire Within You",
+    "subtitle": "The Psychology of Relentless Ambition and Unstoppable Growth",
+    "language": "en",
+    "amazonUrl": "https://www.amazon.com/author/dr.s.davidrajbooks",
+    "cover": "cover-29.jpg",
+    "order": 29
+  }
 ]
